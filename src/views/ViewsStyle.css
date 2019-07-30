@@ -1,0 +1,30 @@
+.errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+     
+  }
+  
+  
+ 
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
+
+  #dv{
+    margin-top: 5px;
+  }
+
+  .bttn{
+    margin-left: 75%;
+  }
+
+  .Imgbox{
+    height: 10%;
+    widows: 10%;
+    margin-left: 10%;
+  }
+  .noHover{
+    color: white;
+    
+  }

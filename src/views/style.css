@@ -1,0 +1,166 @@
+.modclas{
+    width: 1000px;
+}
+
+.moddv{
+    height: 200px;
+    width: 500px;
+}
+.frm{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.frm>h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttclas{
+    margin-left: 250PX;
+}
+.buttadd{
+    width: 7%;
+}
+.fa-trash{
+    color: red;
+    cursor: pointer;
+    font-size:25px; 
+}
+
+.pdficon{
+    color: #e85115;
+    cursor: pointer;
+    font-size:25px; 
+}
+.icon-pencil{
+    color: blue;
+    cursor: pointer;
+    font-size:25px; 
+}
+.fa-plus-square{
+    cursor: pointer;
+    color: #065211;
+    font-size:24px;    
+}
+.tblclss{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.errorMsg{
+    color: red;
+     
+}
+.errorMsg:before {
+    
+    border: 1px solid red;
+}
+
+.btto{
+    color: #065211;
+}
+.Button{
+    color: #065211;
+}
+
+.sample{
+    cursor: pointer;
+    margin-left: 75%;
+}
+
+
+.sample>span{
+    color: #05484f;
+    font-weight: bold;
+}
+.excelsample{
+    cursor: pointer;
+
+}
+.excelsample>span{
+    color: #05484f;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.excelinput{
+    
+}
+.mainexcel{
+    margin-top: 7%;
+}
+.textexcel{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btnexcel{
+    margin-top: 8%;
+    margin-left: 70%;  
+}
+
+.inputset{
+    margin-top: 60px;
+    margin-left: 50%;
+    margin-right: 9%;
+}
+
+.btnfil {
+    border: 2px solid rgb(39, 36, 36);
+    color: #d4d6d0;
+    background-color: #d94565;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+
+.this.state.errors.invoiceno {
+    border: 1px solid red;
+}
+
+
+
+
+
+.pdf {
+    width: 612px;
+    height: 792px;
+    background-color: white;
+    margin: 0 auto;
+  }
+
+  .frmclss{
+    margin-left: 10%;
+  }
+
+  .hightdv{
+    height: 70px;
+    
+  }
+
+  .Imgbox{
+    height: 70px; 
+    /* margin-left: 70%; */
+  }
+
+  .profiledv{
+    border-radius: 50%;
+    
+    width: 150px;
+    height: 100px; 
+  }
+
+  .profileimagecls{
+    border-radius: 49%;
+    width: 150px;
+    height: 100px; 
+  }
+.profilebtn{
+    margin-left: 77%; 
+}
